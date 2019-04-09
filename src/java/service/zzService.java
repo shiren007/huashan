@@ -8,4 +8,6 @@ public interface zzService {
     public void insert();
 
     public void zz();
+
+    void hh();
 }
