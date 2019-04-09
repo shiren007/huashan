@@ -6,4 +6,6 @@ package service;
  */
 public interface zzService {
     public void insert();
+
+    public void zz();
 }
